@@ -20,7 +20,7 @@ This project implements a simple vehicle parking system where users can add, rem
 3. Follow the on-screen prompts to interact with the system.
 
 ##  Outputs
-![Vehicle]("https://github.com/Govindarajannn/Govindarajannn/blob/main/output_screenshots/Vehicle%20choice.png")
+![Vehicle](https://github.com/Govindarajannn/Govindarajannn/blob/main/output_screenshots/Vehicle%20choice.png)
 
 
 ## Contributors
