@@ -20,7 +20,7 @@ This project implements a simple vehicle parking system where users can add, rem
 3. Follow the on-screen prompts to interact with the system.
 
 ##  Outputs
-![Vehicle]("G:\New folder\git\Team17_Parking Management System\output_screenshots\enter.png" "Parking Lot")
+![Vehicle]("https://github.com/Govindarajannn/Govindarajannn/blob/main/output_screenshots/Vehicle%20choice.png")
 
 
 ## Contributors
