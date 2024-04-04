@@ -1,16 +1,32 @@
-### Hi there 👋
+# Vehicle Parking System
 
-<!--
-**Govindarajannn/Govindarajannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Overview
+This project implements a simple vehicle parking system where users can add, remove, search for vehicles (cars and bikes), and calculate revenue based on parking duration. It's a command-line application written in C.
 
-Here are some ideas to get you started:
+## Features
+- **Add vehicle**: Users can add cars and bikes to the parking lot by providing their plate numbers and parking duration.
+- **Remove vehicle**: Users can remove a parked vehicle by entering its plate number.
+- **Search vehicle**: Users can search for a vehicle by its plate number.
+- **Calculate revenue**: The system calculates revenue based on the parking duration of each vehicle.
+- **Plate number validation**: Plate numbers are validated to ensure they follow a specific format (i.e. KA19MG1234).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Requirements
+- This program requires a C compiler to build and run.
+- The code is platform-independent and should work on any system with a C compiler installed.
+
+## How to Use
+1. Clone the repository to your local machine.
+2. Run the main.c file.
+3. Follow the on-screen prompts to interact with the system.
+
+##  Outputs
+![Vehicle]("G:\New folder\git\Team17_Parking Management System\output_screenshots\enter.png" "Parking Lot")
+
+
+## Contributors
+- [Govind](https://github.com/Govindarajannn) - Author and maintainer
+
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
